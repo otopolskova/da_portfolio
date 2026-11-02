@@ -59,9 +59,9 @@
 
 ## Материалы проекта
 
-- `analysis.sql` — SQL-запросы исследования.
-- `reports/` — аналитический отчёт.
-- `images/` — визуализации исследования.
+- [SQL-запросы исследования](analysis.sql)
+- [Аналитический отчёт](reports/real_estate_analysis_report.pdf)
+- [Визуализации](images/)
 
 ## Дашборд Yandex DataLens
 
